@@ -6,7 +6,7 @@ Este repositorio contiene el notebook rigi.ipynb, donde se implementa un modelo 
 
 El notebook reproduce el modelo planteado en el trabajo teórico original, implementando funciones de ingreso, costos, condiciones de primer orden y comparación entre escenarios estratégicos.
 
-**🎯 Objetivo del notebook**
+<h2 align="center">🎯 Objetivo del notebook</h2>
 
 Construir y resolver numéricamente un modelo simplificado donde:
 
@@ -20,7 +20,7 @@ Se calcula el excedente del consumidor y la diferencia de bienestar.
 
 Se generan gráficos y heatmaps que muestran cómo cambia el bienestar según los parámetros del modelo.
 
-**🧰 Contenido del código**
+<h2 align="center">🧰 Contenido del código</h2>
 
 El notebook incluye:
 
@@ -59,12 +59,13 @@ Gráficos comparativos de excedente del consumidor
 
 Todo esto permite visualizar cómo cambia el bienestar social cuando se modifica la estructura de costos (por inversión inducida por el RIGI).
 
-**📂 Estructura del repositorio**
+<h2 align="center">📂 Estructura del repositorio</h2>
+
 /
 ├── rigi.ipynb     # Notebook con el modelo completo
 └── README.md      # Descripción del proyecto
-**
-🛠 Tecnologías utilizadas**
+
+<h2 align="center">🛠 Tecnologías utilizadas</h2>
 
 Python
 
@@ -80,7 +81,7 @@ Matplotlib / Seaborn
 
 Google Colab (versión original)
 
-**📈 ¿Qué permite hacer el notebook?**
+<h2 align="center">📈 ¿Qué permite hacer el notebook?</h2>
 
 Resolver un modelo no lineal que no tiene solución analítica.
 
@@ -90,11 +91,11 @@ Simular escenarios alternativos con parámetros económicos modificados.
 
 Visualizar el impacto en el bienestar social mediante gráficos.
 
-**⚠️ Notas**
+<h2 align="center">⚠️ Notas</h2>
 
 El notebook no representa el texto completo de la tesis, sino únicamente la implementación computacional del modelo matemático utilizado para el análisis.
 
-**🧑‍💻 Autores**
+<h2 align="center">🧑‍💻 Autores</h2>
 
 Rafael Barchiesi, Camila Marcó, Marina Pallucchini.
 Notebook desarrollado como parte de un análisis académico del RIGI.
